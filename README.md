@@ -22,7 +22,7 @@ Study sites contributing to RaPaed-TB:
 
 **De-identified RaPaed-TB IPD and data dictionary:** [Mendeley Data](https://data.mendeley.com/datasets/9zb8pjzfgf/1)
 
-**Index test data:** available on reasonable request to Akshita Gupta, corresponding author, LMU Munich ([akshita.gupta@med.uni-muenchen.de](mailto:akshita.gupta@med.uni-muenchen.de)), following approval by the RaPaed-TB consortium and a signed data access agreement.
+**Index test data:** available on request to Akshita Gupta, corresponding author, LMU Munich ([akshita.gupta@med.uni-muenchen.de](mailto:akshita.gupta@med.uni-muenchen.de)), following approval by the RaPaed-TB consortium and a signed data access agreement.
 
 ## License
 
